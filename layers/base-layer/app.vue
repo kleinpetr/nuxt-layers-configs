@@ -1,0 +1,3 @@
+<template>
+  BASE LAYER
+</template>
